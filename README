@@ -1,0 +1,6 @@
+//to run this project run commands:
+mkdir build
+cd build
+cmake ..
+make
+./eaton
