@@ -1,6 +1,18 @@
 //to run this project run commands:
+
 mkdir build
 cd build
 cmake ..
 make
 ./eaton
+
+// assignment:
+
+The problem to solve is following:
+  You monitor devices, which are sending data to you.
+  Each device has a unique name.
+  Each device produces measurements.
+The challenge is:
+  Compute the number of messages you got or read from the devices.
+The solution has to be in C++.
+The scope is open, you must decide how the “devices” will work in your system.
